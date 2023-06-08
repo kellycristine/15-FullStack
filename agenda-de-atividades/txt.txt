@@ -1,0 +1,111 @@
+11/04 - Manual do aluno - ok
+11/04 - Jornada de Sucesso do Estudante - ok
+
+17/04 - Conheça a Growdev - ok
+17/04 - Vaca não da leite - ok
+
+18/04 - PPT - aula 01 - Lançamento - ok
+18/04 - As oportunidades no Mercado de Tecnologia com os Fundadores da Growdev - ok
+19/04 - Atividade Linkedin - onboarding - ok
+19/04 - Planejamento e rotina de estudos - ok
+19/04 - Acompanhe com quem realemte entende - ok
+19/04 - Célula de talento - ok
+
+20/04 - PPT - Aula 02 - Educacional - ok
+20/04 - PPT - dia 03 - Empregabilidade - ok
+20/04 - Planejamento de estudos - ok
+20/04 - Planejamento e Rotina de estudos - ok
+20/04 - Material de apoio - Rede de computadores - ok
+20/04 - Conheça a historia da computação - ok
+20/04 - Material assícrono - Informatica básica - ok
+20/04 - Como iniciar na carreira em desenvolvimento de software - ok
+20/04 - Growcast - Lucas Toniazzo , Sirros Lo T - ok
+20/04 - Material de apoio - terminal - ok
+
+21/04 - Atividade de fixação - Growcast - ok
+
+25/04 - Atividade pratica 01 - Fluxograma Média simples - ok
+25/04 - PPT - TI e introdução a computação - ok
+25/04 - Atividade Final de modulo - Introdução a computação - ok - (nota 100/100)
+
+26/04 - Atividade pratica 02- Mapa mental - ok - (nota /100)
+26/04 - PPT - Hardware, software, s.o.s e binarios - ok
+
+27/04 - Material de apoio - Instalando a IDE VSCode - ok
+27/04 - Material de apoio - Glossario HTML - ok
+27/04 - Material de apoio - Fundamentos de aplicaçoes Web - ok
+27/04 - PPT - Rede e terminal - ok
+
+28/04 - Quiz - Introdução à computação - ok
+28/04 - Pesquisa NPS - 2º trimestre - ok
+
+03/05 - Atividade pratica - primeiro html - ok
+03/05 - Atividade final do módulo - Front End I - ok
+03/05 - PPT - Fundamentos Front -End I - ok
+03/05 - Videos e Dicas - ok
+
+04/05 - HTML - Exemplos - ok
+04/05 - Atividade Pratica - Imagens, Links e Textos - ok
+04/05 - PPT - Dicionario de Termos Front End - ok
+04/05 - Material de apoio - HTML - ok
+
+05/05 - Quiz - html - Semana 01 - ok
+05/05 - PPT - HTML -Elementos , tags e atributos HTML - ok
+05/05 - Atributos - HTML: Linguagem de marcação e Hipertextos - ok
+08/05 - Atividade pratica 03 - ok
+08/05 - O que é Git e Github? Como Funciona na pratica? - ok
+08/05 - PPT - Auto percepção - ok
+08/05 - Atividade pratica - auto percepção - ok - (nota 100/100)
+08/05 - Material de apoio - Git e Github - ok
+08/05 - Informação Extra - Tutorial CBO - ok
+
+09/05 - PPT - Git e Github - ok
+
+10/05 - Atividade pratifca - portifolio Github - ok - (nota /100)
+
+11/05 - PPT - Lista, tabelas e outras tags HTML - ok
+
+12/05 - Quiz - semana 02 - ok - (nota 10/10)
+
+15/05 - Atividade pratica - tabela HTML - ok - (nota /100)
+15/05 - Material de apoio - CSS -Cascading style sheets - ok
+
+16/05 - PPT -CSS - ok
+
+18/05 - Atividade pratica - posicionamento CSS - ok - (nota /100)
+
+19/05 - Quiz -  semana 03 - ok - (nota /10)
+
+22/05 - Material de apoio - Fundamentos da Programação - ok
+22/05 - PPT - Motivação - ok
+22/05 - Linguagem de programação - ok
+22/05 - Atividade motivação - ok - (nota 100/100)
+
+25/05 - Avaliação Final do modulo -  - (nota /100)
+25/05 - site com jogos para treinar logica e algoritmos - ok
+25/05 - Material de apoio - Javascript - introdução - ok
+25/05 - PPT - Fundamentos da programção - ok
+25/05 - Jogos para trienar logica - ok
+
+26/05 - Quiz - semana 01 - ok - (nota 10/10)
+26/05 - PPT - Javascript - conceitos inciais - ok
+
+29/05 - Atividade pratica 01 - logica simples e estruturas condicionais1 - ok - (nota /100)
+29/05 - Material de apoio - Javascript - Estruturas Condicionais - ok
+
+31/05 - Atividade pratica 02 -Logica simples e estruturas Condicionais2 - ok - (nota /100)
+
+01/06 - PPT - Estruturas de Repetição - ok
+
+02/06 - Quiz - semana 02 - ok - (nota 10/10)
+
+05/06 - Atividade pratica 03 - Estruturas de repetição 1 - ok - (nota /100)
+05/06 - PPT - Comprometimento - ok
+05/06 - Atividade - Comprometimento - ok - (nota /100)
+
+06/06 - Atividade pratica 05 - Estruturas condicionais e de repetição 1 - ok - (nota /100)
+06/06 - Atividade pratica 04 - Desafio Ilha growdev - ok - (nota /100)
+06/06 - PPT - Estruturas Condicional - ok
+
+07/06 - Atividade pratica 06 - Estruturas Condicionais e de repetição 2 - 
+
