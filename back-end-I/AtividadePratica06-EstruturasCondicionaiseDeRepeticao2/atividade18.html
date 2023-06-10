@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Atividade 6</title>
+</head>
+<body>
+    <script>
+        /*18. Uma loja de eletrodomésticos estabeleceu as seguintes
+modalidades de pagamento para a venda de suas mercadorias:
+
+Escreva um algoritmo que armazene o preço de tabela e o número
+de vezes em que o pagamento será feito. Calcule o valor de cada
+parcela e o preço total da compra e imprima no console.*/
+
+        let precoTabela = Number(prompt("Digite o valor de tabela : ")); 
+        let numeroParcelas = Number(prompt("Digite o número de parcelas: ")); 
+        
+        let valorParcela = precoTabela / numeroParcelas;
+
+        let precoTotal = precoTabela;
+
+        console.log("Valor de cada parcela: R$ " + valorParcela.toFixed(2));
+        console.log("Preço total da compra: R$ " + precoTotal.toFixed(2));
+    </script>
+</body>
+</html>

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Atividade 6</title>
+</head>
+<body>
+    <script>
+        /*13. Faça um algoritmo que armazene um número e imprima os
+números ímpares entre 1 e o número armazenado.*/
+        
+        let numero = Number(prompt("Digite um número")); 
+
+
+        document.write("Números ímpares entre 1 e " + numero + ":");
+        for (let i = 1; i <= numero; i++) {
+        if (i % 2 !== 0) {
+            document.write(i);
+            }
+        }
+    </script>
+</body>
+</html>
