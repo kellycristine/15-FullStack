@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Atividade 6</title>
+</head>
+<body>
+    <script>
+        /*3. Utilizando o IF, ELSE, ELSE IF crie uma estrutura para receber um
+número de 1 a 7 e imprimir no console o dia da Semana. Para este
+exercício assumimos que o dia 1 é Domingo, dia 2 é segunda e assim
+por diante. Caso o número recebido não esteja neste intervalo
+imprimir “Dia não reconhecido”.*/
+
+        let diaDaSemanaNum = Number(prompt('Informe um número correspondente ao dia da semana: '));
+        let domingo = "Domingo";
+        let segunda = "Segunda-feira";
+        let terca = "Terça-feira";
+        let quarta = "Quarta-feira";
+        let quinta = "Quinta-feira";
+        let sexta = "Sexta-feira";
+        let sabado = "Sábado";
+
+        if (diaDaSemanaNum === 1) {
+        console.log(`Você selecionou o dia: ${domingo}`);
+    } else if (diaDaSemanaNum === 2) {
+        console.log(`Você selecionou o dia: ${segunda}`);
+    } else if (diaDaSemanaNum === 3) {
+        console.log(`Você selecionou o dia: ${terca}`);
+    } else if (diaDaSemanaNum === 4) {
+        console.log(`Você selecionou o dia: ${quarta}`);
+    } else if (diaDaSemanaNum === 5) {
+        console.log(`Você selecionou o dia: ${quinta}`);
+    } else if (diaDaSemanaNum === 6) {
+        console.log(`Você selecionou o dia: ${sexta}`);
+    } else if (diaDaSemanaNum === 7) {
+        console.log(`Você selecionou o dia: ${sabado}`);
+    } else {
+        console.log("Valor inválido");
+    }
+
+    </script>
+</body>
+</html>

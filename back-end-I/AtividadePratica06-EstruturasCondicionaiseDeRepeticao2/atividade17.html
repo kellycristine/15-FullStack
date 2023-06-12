@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Atividade 6</title>
+</head>
+<body>
+    <script>
+        /*17. Escreva um algoritmo que armazene o número total de eleitores de
+um município, o número de votos brancos, nulos e válidos. Calcular
+e escrever o percentual que cada um representa em relação ao
+total de eleitores. O algoritmo deve fazer uma validação para que as
+porcentagens dos votos armazenados (brancos, nulos e válidos)
+respeitem o limite do número total de eleitores, ou seja, garantir que
+a soma dos votos brancos, nulos e válidos não seja maior que o
+número total de eleitores.*/
+
+        
+        let totalEleitores = 1000; 
+        let votosBrancos = 150; 
+        let votosNulos = 80; 
+        let votosValidos = 700; 
+        
+        let somaVotos = votosBrancos + votosNulos + votosValidos;
+        
+            if (somaVotos > totalEleitores) {
+                document.write("A soma dos votos brancos, nulos e válidos é maior que o número total de eleitores.");
+            } else {
+            
+            let percentualBrancos = (votosBrancos / totalEleitores) * 100;
+                        
+            let percentualNulos = (votosNulos / totalEleitores) * 100;
+                        
+            let percentualValidos = (votosValidos / totalEleitores) * 100;
+            document.write("Percentual de votos brancos: " + percentualBrancos.toFixed(2) + "%");
+                    
+            document.write("Percentual de votos nulos: " + percentualNulos.toFixed(2) + "%");
+                       
+            document.write("Percentual de votos válidos: " + percentualValidos.toFixed(2) + "%");
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Atividade 6</title>
+</head>
+<body>
+    <script>
+        /*11. Utilizando Switch, faça um programa que pergunte em que turno
+você estuda. Peça para digitar “M” para matutino ou “V” para
+vespertino ou “N” para noturno. Mostre um alerta com a mensagem
+“Bom dia!” ou “Boa tarde” ou “Boa Noite” ou “Valor inválido”,
+conforme o caso.*/
+        
+        let turno = prompt("Em qual turno você estuda? Digite 'M' para matutino, 'V' para vespertino ou 'N' para noturno.");
+
+        switch (turno) {
+        case 'M':
+        case 'm':
+                
+        alert("Bom dia!");
+            break;
+        case 'V':
+        case 'v':
+                    
+        alert("Boa tarde!");
+            break;
+        case 'N':
+        case 'n':
+                   
+        alert("Boa noite!");
+            break;
+                
+        default:
+            alert("Valor inválido!");
+        }
+    </script>
+</body>
+</html>

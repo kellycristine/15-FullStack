@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Atividade 6</title>
+</head>
+<body>
+    <script>
+        /*14. Leia um número, utilizando WHILE multiplique este número por 3
+enquanto a soma seja menor que 500 e no final mostre qual o
+último valor*/
+        
+            
+        let numero = Number(prompt("Digite um número: ")); 
+        let multiplicacao = numero;
+        let soma = multiplicacao;
+        
+        while (soma < 500) {
+        multiplicacao *= 3;
+        soma += multiplicacao;
+        }
+
+        document.write("O último valor obtido é: " + multiplicacao);
+    </script>
+</body>
+</html>
