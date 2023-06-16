@@ -107,5 +107,10 @@
 06/06 - Atividade pratica 04 - Desafio Ilha growdev - ok - (nota /100)
 06/06 - PPT - Estruturas Condicional - ok
 
-07/06 - Atividade pratica 06 - Estruturas Condicionais e de repetição 2 - 
+07/06 - Atividade pratica 06 - Estruturas Condicionais e de repetição 2 - ok - (nota /100)
+
+12/06 - Material de apoio - Javascript - Arrays - ok
+
+13/06 - Quiz - Semana 03 -  ok (nota 8/10)
+13/06 - Atividade Pratica 07 - Arrays 1 -    (nota /100)
 
