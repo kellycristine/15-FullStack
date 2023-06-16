@@ -24,11 +24,7 @@
 
       const homemDesconto = 5;
       const mulherDesconto = 13;
-
-      /* -> O NOME TEM QUE SER VÁLIDO 
-      -> O VALOR DA COMPRA TEM QUE SER ACIMA DE ZERO - colocar o break */
-
-
+      
       if(!nome){
         document.write("Digite um nome válido!")
 
@@ -44,8 +40,7 @@
         let valorFinalMulher = valorDasCompras - (valorDasCompras * mulherDesconto) / 100;
         document.write(` ${nome} <br> O valor da sua compra foi: R$ ${valorDasCompras} e com o desconto de ${mulherDesconto}%, você irá pagar: R$ ${valorFinalMulher}`);
       } else if (sexo !== "M" || "F") {
-        document.write(` Você digitou " ${sexo} ", e neste campo é aceito M para masculino e F para feminino  <br>`
-        );
+        document.write(` Você digitou " ${sexo} ", e neste campo é aceito M para masculino e F para feminino  <br>`);
       }
       }
 

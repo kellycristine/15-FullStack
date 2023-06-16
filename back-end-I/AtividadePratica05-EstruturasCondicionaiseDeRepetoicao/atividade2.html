@@ -22,35 +22,21 @@
       let continuar = true;
 
       while (continuar) {
-        let salario = Number(
-          prompt(`Digite o salário do funcionário no campo abaixo: `)
-        );
+        let salario = Number(prompt(`Digite o salário do funcionário no campo abaixo: `));
 
         if (salario <= 0) {
-          document.write(
-            ` Você digitou o valor " ${salario} " para salário, e neste campo só é aceito valor MAIOR QUE ZERO! <br>`
-          );
+          document.write(` Você digitou o valor " ${salario} " para salário, e neste campo só é aceito valor MAIOR QUE ZERO! <br>`);
           break;
-        } 
-
-            else {
-                    let sexo = prompt(
-                        `Digite o sexo do funcionário (M para masculino, F para feminino):)`
-                    ).toUpperCase();
-
-                    if (sexo === "M") {
-                                mTotal += salario;
-                            } else if (sexo === "F") {
-                                fTotal += salario;
-                            } else if (sexo !== "M" || "F") {
-                                document.write(` Você digitou " ${sexo} ", e neste campo é aceito M para masculino e F para feminino  <br>`);
-                                break;
-                            }
-
-                    const resposta = prompt("Deseja continuar? (S para sim, N para não)").toUpperCase();
-                    continuar = resposta === "S";
-
-
+        } else {
+          let sexo = prompt(`Digite o sexo do funcionário (M para masculino, F para feminino):)`.toUpperCase());
+          if (sexo === "M") {mTotal += salario;
+          } else if (sexo === "F") {fTotal += salario;
+          } else if (sexo !== "M" || "F") {
+              document.write(` Você digitou " ${sexo} ", e neste campo é aceito M para masculino e F para feminino  <br>`);
+              break;
+          }
+        const resposta = prompt("Deseja continuar? (S para sim, N para não)").toUpperCase();
+        continuar = resposta === "S";
         }
       }
 
