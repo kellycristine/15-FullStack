@@ -112,10 +112,16 @@
 12/06 - Material de apoio - Javascript - Arrays - ok
 
 13/06 - Quiz - Semana 03 -  ok (nota 8/10)
-13/06 - Atividade Pratica 07 - Arrays 1 -    (nota /100)
+13/06 - Atividade Pratica 07 - Arrays 1 - ok  (nota /100)
 
-14/06 - Atividade Pratica 08 - Arrays 2 -    (nota /100)
+14/06 - Atividade Pratica 08 - Arrays 2 - ok  (nota /100)
 
-15/06 - PPT - Objetos em Javascript - 
+15/06 - PPT - Objetos em Javascript - ok
 
+16/06 - Quiz - semana 04 - ok (nota 7/10)
 
+19/06 - Atividade Pratica 09 - Objetivos e Arrays - ok (nota  /100)
+19/06 - Atividade - Trabalho em equipe - ok - (nota  /100)
+19/06 - PPT - Trabalho em equipe - ok
+
+20/06 - Atividade pratica - Arrays, Objetos e funções - 
