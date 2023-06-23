@@ -125,3 +125,8 @@
 19/06 - PPT - Trabalho em equipe - ok
 
 20/06 - Atividade pratica - Arrays, Objetos e funções - 
+
+21/06 - Conteudo complementar - 
+21/06 - Material de apoio - API Rest -
+21/06 - Passo a passo servidor express - 
+
