@@ -121,12 +121,19 @@
 16/06 - Quiz - semana 04 - ok (nota 7/10)
 
 19/06 - Atividade Pratica 09 - Objetivos e Arrays - ok (nota  /100)
-19/06 - Atividade - Trabalho em equipe - ok - (nota  /100)
+19/06 - Atividade - Trabalho em equipe - ok - (nota 100/100)
 19/06 - PPT - Trabalho em equipe - ok
 
 20/06 - Atividade pratica - Arrays, Objetos e funções - 
 
-21/06 - Conteudo complementar - 
-21/06 - Material de apoio - API Rest -
+21/06 - Conteudo complementar - ok
+21/06 - Material de apoio - API Rest - 
 21/06 - Passo a passo servidor express - 
 
+22/06 - Material de apoio - JavaScript - Funções e Escopo de variáveis -
+22/06 - Código de status de Respostas - 
+22/06 - PPT - Funções, Variáveis e Tipos - 
+
+26/06 - Atividade Pratica - CRUD de carros - 
+26/06 - Atividade Pratica 10 - Funcoes - 
+26/06 - Atividade Pratica 11 - Objetos e arrays - 
