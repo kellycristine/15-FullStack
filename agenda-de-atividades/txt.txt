@@ -124,16 +124,31 @@
 19/06 - Atividade - Trabalho em equipe - ok - (nota 100/100)
 19/06 - PPT - Trabalho em equipe - ok
 
-20/06 - Atividade pratica - Arrays, Objetos e funções - 
+20/06 - Atividade pratica 12- Arrays, Objetos e funções - ok - (nota /100)
 
 21/06 - Conteudo complementar - ok
-21/06 - Material de apoio - API Rest - 
-21/06 - Passo a passo servidor express - 
+21/06 - Material de apoio - API Rest - ok
+21/06 - Passo a passo servidor express - ok
 
-22/06 - Material de apoio - JavaScript - Funções e Escopo de variáveis -
-22/06 - Código de status de Respostas - 
-22/06 - PPT - Funções, Variáveis e Tipos - 
+22/06 - Material de apoio - JavaScript - Funções e Escopo de variáveis - ok
+22/06 - Código de status de Respostas - 0k
+22/06 - PPT - Funções, Variáveis e Tipos - ok
 
-26/06 - Atividade Pratica - CRUD de carros - 
-26/06 - Atividade Pratica 10 - Funcoes - 
-26/06 - Atividade Pratica 11 - Objetos e arrays - 
+26/06 - Atividade Pratica - CRUD de carros - ok (nota /100)
+26/06 - Atividade Pratica 10 - Funcoes - ok - (nota /100)
+26/06 - Atividade Pratica 11 - Objetos e arrays - ok - (nota /100)
+
+03/07 - PPT - Pocesso em SI - ok
+03/07 - Atividade - Processo em SI - ok - (nota /100)
+
+04/07 - PPT - API Rest - ok
+04/07 - PPT -Node.JS -Typescript - ok
+
+05/07 - Material de apoio - Middlewares - ok
+05/07 - Middleware - ok
+
+06/07 - Escrevendo Middlewares para aplicativos do express - ok
+06/07 - Roteamento no Express - ok
+06/07 - PPT - Contextualização Middlewares - ok
+
+11/07 - PPT -Cloud Computing - 
