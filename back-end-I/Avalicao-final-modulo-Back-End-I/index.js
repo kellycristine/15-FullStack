@@ -106,7 +106,7 @@ app.post("/recados", function (requisicao, resposta){
     console.log(recados);
 });
 
-app.listen(3000, function(){
+app.listen(3000, function() {
     console.log("Aplicação está rodando na porta 3000: http://localhost:3000");
     console.log("ip local: http://:3000");
 });
