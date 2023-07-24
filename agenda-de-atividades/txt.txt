@@ -131,7 +131,7 @@
 21/06 - Passo a passo servidor express - ok
 
 22/06 - Material de apoio - JavaScript - Funções e Escopo de variáveis - ok
-22/06 - Código de status de Respostas - 0k
+22/06 - Código de status de Respostas - ok
 22/06 - PPT - Funções, Variáveis e Tipos - ok
 
 26/06 - Atividade Pratica - CRUD de carros - ok (nota /100)
@@ -156,8 +156,8 @@
 14/07 - Quiz - semana 6 - ok
 
 17/07 - Modelo de Curriculo - ok
-17/07 - Material de Apoio - Javascript - DOM - 
-17/07 - DOM - 
+17/07 - Material de Apoio - Javascript - DOM - ok
+17/07 - DOM - ok
 17/07 - Atividade - Curriculo - ok
 17/07 - PPT - Curriculo - ok
 17/07 - Entenda o DOM - 
