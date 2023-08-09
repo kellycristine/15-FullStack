@@ -158,7 +158,7 @@
 17/07 - Modelo de Curriculo - ok
 17/07 - Material de Apoio - Javascript - DOM - ok
 17/07 - DOM - ok
-17/07 - Atividade - Curriculo - ok
+17/07 - Atividade - Curriculo - ok - (nota 100/100)
 17/07 - PPT - Curriculo - ok
 17/07 - Entenda o DOM - ok
 
@@ -183,7 +183,7 @@
 25/07 - Validação de Dados - Como Verificar daos Informa - 
 25/07 - Conteudo extra -
 
-26/07 - Atividade Pratica 15 - Formulários e Manipulação do Dom - 
+26/07 - Atividade Pratica 15 - Formulários e Manipulação do Dom - ok
 26/07 - Material de Apoio - JavaScript - LocalStorage - 
 26/07 - Aprenda tudo sobre LocalStorage e SessionStrage - 
 26/07 - How to Store Login Session - 
@@ -200,6 +200,7 @@
 02/08 Atividade Pratica - Paginacao no back-end - 
 
 08/08 - PPT - Flexbox - 
+08/08 - Avaliação Final do Módulo - (Nota /100)
 
 
 
