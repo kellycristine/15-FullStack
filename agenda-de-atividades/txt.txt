@@ -151,7 +151,7 @@
 06/07 - Roteamento no Express - ok
 06/07 - PPT - Contextualização Middlewares - ok
 
-11/07 - PPT -Cloud Computing - 
+11/07 - PPT -Cloud Computing - ok
 
 14/07 - Quiz - semana 6 - ok
 
@@ -162,24 +162,24 @@
 17/07 - PPT - Curriculo - ok
 17/07 - Entenda o DOM - ok
 
-18/07 - PPT - DOM - Manipulando Metodos e Propriedades - 
+18/07 - PPT - DOM - Manipulando Metodos e Propriedades - ok
 18/07 - Atividade Final de Modulo - Front-End_II -  - (nota /100)
-18/07 - PPT - HTML e DOM -
+18/07 - PPT - HTML e DOM - ok
 
 19/07 - Atividade Pratica - Manipulaçao do DOM 1 - ok
 19/07 - Atividade pratica - manipulação do DOM 2 - ok - 
 
-20/07 - PPT - Eventos -
-20/07 - Material de apoio - Javascript - Eventos - 
-20/07 - Adicional: Axios - 
+20/07 - PPT - Eventos - ok
+20/07 - Material de apoio - Javascript - Eventos - ok
+20/07 - Adicional: Axios - ok
 
 21/07 - Quiz -senama 01 - ok
 
 24/07 - Atividade Pratica 16 - DOM Events - ok
 24/07 - Material de Apoio - Javascript - Formulários HTML - 
 
-25/07 - PPT - Formulários HTML
-25/07 - Meu primeiro formulário HTML
+25/07 - PPT - Formulários HTML -
+25/07 - Meu primeiro formulário HTML -
 25/07 - Validação de Dados - Como Verificar daos Informa - 
 25/07 - Conteudo extra -
 
@@ -193,11 +193,14 @@
 
 28/07 - Quiz -semana 02 - 
 
-31/07 - Atividade - Entrevista - 
+31/07 - Atividade - Entrevista - ok
 31/07 - PPT - entrevista - 
 
 02/08 - Atividade Pratica - Paginação no front-end - 
 02/08 Atividade Pratica - Paginacao no back-end - 
+
+08/08 - PPT - Flexbox - 
+
 
 
 
