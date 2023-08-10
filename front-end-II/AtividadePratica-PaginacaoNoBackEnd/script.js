@@ -4,7 +4,7 @@ import cors from "cors";
 const usuarios = [
   {
     identificador: 0,
-    nome: "Gabriel",
+    nome: "Kelly",
     email: "teste@teste",
     senha: "teste",
     recados: [
