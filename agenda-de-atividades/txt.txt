@@ -191,16 +191,25 @@
 
 27/07 - atividade Pratica - Login - ok, entregue um dia apos a data 
 
-28/07 - Quiz -semana 02 - 
+28/07 - Quiz -semana 02 - ok
 
 31/07 - Atividade - Entrevista - ok
 31/07 - PPT - entrevista - 
 
-02/08 - Atividade Pratica - Paginação no front-end - 
-02/08 Atividade Pratica - Paginacao no back-end - 
+02/08 - Atividade Pratica - Paginação no front-end - ok
+02/08 Atividade Pratica - Paginacao no back-end - ok
 
 08/08 - PPT - Flexbox - 
 08/08 - Avaliação Final do Módulo - (Nota /100)
+
+09/08 - Material de apoio - Animação CSS -
+09/08 - Atividade Pratica - Flexbox - ok
+09/08 - FlexBox - Froggy - um jogo para aprender css flexbox - ok
+
+10/08 - Pesquisa NPS - 3º Trimestre - ok
+10/08 - PPT - Animations - 
+
+11/08 - Quiz - semana 01 - ok
 
 
 
