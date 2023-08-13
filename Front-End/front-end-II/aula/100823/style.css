@@ -1,0 +1,56 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #f0f0f0;
+    overflow: hidden;
+  }
+  
+  .corrida {
+    width: 50px;
+    height: 50px;
+    background-color: red;
+    position: absolute;
+    animation: quadrado 6s linear infinite;
+  }
+  
+  @keyframes quadrado {
+    0%, 100% {
+        top: 0;
+        left: 0;
+        background-color: purple;
+    }
+    25% {
+        top: 0;
+        left: calc(100vw - 50px);
+      background-color: pink;
+    }
+    50% {
+        top: calc(100vh - 50px);
+        left: calc(100vw - 50px);
+      background-color: blueviolet;
+    }
+    75% {
+        top: calc(100vh - 50px);
+        left: 0;
+        border-radius: 100px;
+      background-color: violet;
+    }
+  }
+
+    @media (max-width: 767px) {
+        /* Seus estilos para dispositivos pequenos aqui */
+      }
+      
+      /* Estilos para tablets */
+      @media (min-width: 768px) and (max-width: 1023px) {
+        /* Seus estilos para tablets aqui */
+      }
+      
+      /* Estilos para desktops */
+      @media (min-width: 1024px) {
+        /* Seus estilos para desktops aqui */
+      }
+  

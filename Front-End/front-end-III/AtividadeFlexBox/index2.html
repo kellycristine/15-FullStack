@@ -1,0 +1,77 @@
+<!--2. Crie uma página HTML e um arquivo CSS, para alinhar os elementos
+conforme imagem abaixo. Utilize flexbox para realizar o alinhamento.-->
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercicio 2</title>
+    <style>
+        body {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                height: 100vh;
+                margin: 0;
+            }
+            .container {
+                display: flex;
+                align-items: flex-end;
+                position: relative;
+            }
+         
+            .gray {
+                flex-direction: column;
+                width: 50rem;
+                height: 30rem;
+                background-color: #ccc;
+                justify-content: flex-end;
+                align-items: center;
+                border: 1px solid purple;
+
+            }
+            .yellow {
+                width: 6rem;
+                height: 6rem;
+                position: absolute;
+                top: 0;
+                right: 0;
+                background-color: rgb(221, 139, 17);
+                border: 1px solid purple;
+                border-radius: 50%;
+                margin: 10px;
+                
+            }
+            .blue1 {
+                width: 6rem;
+                height: 6rem;
+                background-color: rgb(60, 60, 187);
+                border:1px solid purple;
+                margin: 10px;
+                position: absolute;
+                bottom: 0;
+                right: 0;
+            }
+            .blue2 {
+                width: 6rem;
+                height: 6rem;
+                background-color: rgb(60, 60, 187);
+                border:1px solid purple;
+                margin: 10px;
+                position: absolute;
+                bottom: 0;
+                left: 0;
+            } 
+    </style>
+</head>
+<body>
+     <div class="container">
+        <div class="gray">
+            <div class="yellow"></div>
+            <div class="blue1"></div>
+            <div class="blue2"></div>
+        </div>
+    </div>
+</body>
+</html> 

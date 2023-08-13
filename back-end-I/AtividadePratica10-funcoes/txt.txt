@@ -40,6 +40,7 @@ uma mensagem no console.log() informando “Acesso à aplicação
 NomeAplicação” e um alerta informando “Bem vindo à aplicação
 NomeApliação”. Sendo que o nome da aplicação deve ser salvo em
 uma variável para mostrar nas mensagens.
+
 8. Crie uma função chamada mostrarDobro(num), que recebe um
 parâmetro sendo um número inteiro. Esta função será chamada ao
 abrir a página e mostrará um alerta com o resultado. Exemplo: “O

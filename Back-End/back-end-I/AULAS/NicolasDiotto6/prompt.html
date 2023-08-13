@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Prompt</title>
+  </head>
+  <body></body>
+  <script>
+    //Usado para exibir uma caixa de dialogo aonde o usuario pode inserir um valor
+    let idade = prompt("Digite uma idade com prompt padrao");
+
+    //paserInt(), parseFloat() ou Number() tranforma o retorno de string do promp para numerico
+    console.log(idade, typeof idade);
+
+    let idadeComParse = parseInt(prompt("Digite a idade com parseInt"));
+    console.log(idadeComParse, typeof idadeComParse);
+
+    //confirm
+    //Usado para exibir uma caixa de dialogo que vai retornar verdadeiro ou falso
+
+    let VouF = confirm("Dialogo que retorna verdadeiro ou falso");
+    console.log(VouF);
+
+    //alert
+    //Usado para exibir uma caixa de dialogo de alerta pro usuario
+
+    let alerta = alert("Alerta");
+  </script>
+</html>

@@ -1,0 +1,57 @@
+<!--1. Crie uma página HTML e um arquivo CSS, para alinhar os elementos
+conforme imagem abaixo. Utilize flexbox para realizar o alinhamento.-->
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercicio 1</title>
+    <style>
+         body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }   
+        .gray {
+            display: flex;
+            flex-direction: row;
+            width: 50rem;
+            height: 30rem;
+            background-color: #e6dfdf;
+            align-items: center;
+            justify-content: space-between;
+            border: 1px solid purple;
+
+        }
+        .yellow {
+            width: 6rem;
+            height: 6rem;
+            background-color: rgb(221, 139, 17);
+            border: 1px solid purple;
+            border-radius: 50%;
+            margin: 10px;
+
+        }
+        .blue {
+            width: 6rem;
+            height: 6rem;
+            background-color: rgb(60, 60, 187);
+            border:1px solid purple;
+            border-radius: 50%;
+            margin: 10px;
+        }
+       
+    </style>
+</head>
+<body>
+     <div class="container">
+        <div class="gray">
+            <div class="yellow"></div>
+            <div class="blue"></div>
+        </div>
+    </div>
+</body>
+</html> 

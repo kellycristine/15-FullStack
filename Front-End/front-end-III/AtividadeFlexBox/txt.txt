@@ -1,0 +1,21 @@
+Exercício – Flexbox
+1. Crie uma página HTML e um arquivo CSS, para alinhar os elementos
+conforme imagem abaixo. Utilize flexbox para realizar o alinhamento.
+
+2. Crie uma página HTML e um arquivo CSS, para alinhar os elementos
+conforme imagem abaixo. Utilize flexbox para realizar o alinhamento.
+
+3. Utilize o código base fornecido pelo Tech Helper para arrumar a
+aparência da página abaixo, que representa um tweet da Growdev.
+
+Posicione os elementos da página usando apenas os comandos
+relacionados ao Flexbox, para que a página fique da seguinte forma:
+
+Atenção!
+Este exercício deverá ser postado na Class até o horário estipulado da
+tarefa na plataforma. Crie um arquivo compactado contendo os arquivos
+com a resolução da atividade e realize o upload no post da atividade no
+Class.
+
+Para que possamos construir uma base sólida de aprendizado é preciso
+praticar. Bora implementar tudo isso! 🚀

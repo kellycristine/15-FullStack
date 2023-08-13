@@ -1,0 +1,64 @@
+<<<<<<< HEAD
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contador de Cliques</title>
+</head>
+
+<body>
+  <h1>Contador de Cliques</h1>
+  <button onclick="incrementar()">INCREMENTAR</button>
+  <button onclick="zerar()">ZERAR CONTADOR</button>
+  <p id="contador">O contador está com 0 cliques</p>
+
+  <script>
+    let contadorCliques = 0;
+    let paragrafo = document.getElementById("contador");
+
+    function incrementar() {
+      contadorCliques++;
+      paragrafo.style.display = "block";
+      paragrafo.textContent = "O contador está com " + contadorCliques + " cliques";
+    }
+
+    function zerar() {
+      contadorCliques = 0;
+      paragrafo.style.display = "none";
+    }
+  </script>
+</body>
+=======
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contador de Cliques</title>
+</head>
+
+<body>
+  <h1>Contador de Cliques</h1>
+  <button onclick="incrementar()">INCREMENTAR</button>
+  <button onclick="zerar()">ZERAR CONTADOR</button>
+  <p id="contador">O contador está com 0 cliques</p>
+
+  <script>
+    let contadorCliques = 0;
+    let paragrafo = document.getElementById("contador");
+
+    function incrementar() {
+      contadorCliques++;
+      paragrafo.style.display = "block";
+      paragrafo.textContent = "O contador está com " + contadorCliques + " cliques";
+    }
+
+    function zerar() {
+      contadorCliques = 0;
+      paragrafo.style.display = "none";
+    }
+  </script>
+</body>
+>>>>>>> 826a43d3b536025a8ee35d2a5177344a1444d754
+</html>
