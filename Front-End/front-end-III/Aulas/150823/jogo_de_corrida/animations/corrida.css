@@ -1,0 +1,127 @@
+body {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #e0e0e0;
+}
+
+.carro {
+  position: relative;
+  width: 200px;
+  height: 140px;
+}
+
+.corpo-carro {
+  position: absolute;
+  top: 10px;
+  width: 100%;
+  height: 100px;
+  background-color: #ff0000;
+  border-radius: 50px 50px 20px 20px;
+  box-shadow: 0 5px 5px rgba(0, 0, 0, 0.2);
+}
+
+.janela {
+  position: absolute;
+  top: 20px;
+  left: 55%;
+  width: 30%;
+  height: 40px;
+  background-color: #87ceeb;
+  border-radius: 10px;
+}
+
+.roda {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  background-color: #000;
+  border-radius: 50%;
+  bottom: 0;
+}
+
+.roda-esquerda {
+  left: 20px;
+  border: 0.3rem solid #2e2e2e;
+}
+
+.roda-direita {
+  right: 20px;
+  border: 0.3rem solid #2e2e2e;
+}
+
+.pista {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  position: relative;
+  height: 650px;
+  background-color: #2e2e2e; /* Cor do asfalto */
+  width: 100vw;
+}
+
+.linha-pontilhada {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  height: 20px;
+  width: 100%;
+  background: repeating-linear-gradient(
+    to right,
+    #ffff00,
+    /* Cor amarela */ #ffff00 70px,
+    transparent 20px,
+    transparent 100px
+  );
+}
+
+.verde {
+  background-color: green !important;
+}
+
+.roxo {
+  background-color: purple !important;
+}
+
+.rosa {
+  background-color: rgb(255, 0, 208) !important;
+}
+
+.botao-iniciar {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #4caf50; /* Cor verde */
+  color: #ffffff; /* Cor branca */
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s, transform 0.3s;
+}
+
+.botao-iniciar:hover {
+  background-color: #45a049; /* Um verde um pouco mais escuro para o hover */
+  transform: scale(
+    1.05
+  ); /* Aumenta um pouco o tamanho do botão quando o mouse passa por cima */
+}
+
+.botao-iniciar:active {
+  background-color: #388e3c; /* Um verde ainda mais escuro para quando o botão é pressionado */
+  transform: scale(
+    1
+  ); /* Retorna ao tamanho original quando o botão é pressionado */
+}
+
+@keyframes brokeCar {
+  0% {
+    transform: rotateZ(0deg);
+  }
+
+  100% {
+    opacity: 0.8;
+    transform: rotateZ(25deg);
+  }
+}

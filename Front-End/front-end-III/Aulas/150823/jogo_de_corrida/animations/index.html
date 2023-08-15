@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Corrida de Carros</title>
+    <link rel="stylesheet" href="corrida.css" />
+    ;
+    <link rel="stylesheet" href="animations.css" />
+  </head>
+  <body>
+    <div class="pista">
+      <div class="linha-pontilhada"></div>
+      <div class="carro linear">
+        <div class="corpo-carro">
+          <div class="janela"></div>
+        </div>
+        <div class="roda roda-esquerda"></div>
+        <div class="roda roda-direita"></div>
+      </div>
+      <div class="carro ease-out">
+        <div class="corpo-carro roxo">
+          <div class="janela"></div>
+        </div>
+        <div class="roda roda-esquerda"></div>
+        <div class="roda roda-direita"></div>
+      </div>
+      <div class="carro ease-in">
+        <div class="corpo-carro verde">
+          <div class="janela"></div>
+        </div>
+        <div class="roda roda-esquerda"></div>
+        <div class="roda roda-direita"></div>
+      </div>
+      <div class="carro ease-in-out">
+        <div class="corpo-carro rosa">
+          <div class="janela"></div>
+        </div>
+        <div class="roda roda-esquerda"></div>
+        <div class="roda roda-direita"></div>
+      </div>
+    </div>
+    <button class="botao-iniciar" onclick="iniciarCorrida()">
+      Iniciar Corrida
+    </button>
+    <script src="script.js"></script>
+  </body>
+</html>
