@@ -217,6 +217,9 @@
 14/08 - PPT- Etapas do processo - 
 14/08 - Material de Apoio - Frameworks Bootstrap - 
 
+15/08 - PPT - Framework_Bootstrap - 
+16/08 - Atividade Pratica - Bootstrap - 
+
 
 
 
@@ -226,3 +229,4 @@
 
 https://react.microfrontends.app/people - exemplo para fazer a avaliação final
 https://flexboxfroggy.com/ jogo para treinar css
+https://animate.style/

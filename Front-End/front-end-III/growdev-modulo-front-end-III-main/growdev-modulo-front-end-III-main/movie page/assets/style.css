@@ -1,0 +1,171 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.logo {
+  position: fixed;
+  width: 150px;
+  left: 10px;
+  top: 10px;
+}
+
+body {
+  background-image: url(./images/mario\ background.jpg);
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  min-height: 100vh;
+  overflow: hidden;
+}
+
+.cinema {
+  text-align: center;
+  background-color: red;
+  color: #fff;
+  padding: 20px;
+  animation: highlight 3s forwards;
+  transform: translateX(-100%);
+}
+
+h1 {
+  font-size: 60px;
+  margin: 0;
+}
+
+.mario {
+  animation: bounce 4s infinite;
+  width: 150px;
+}
+
+.pipe {
+  width: 100px;
+}
+
+.marioOut {
+  position: fixed;
+  bottom: -100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.bullet {
+  position: absolute;
+  bottom: 70px;
+  left: 0;
+  width: 50px;
+  animation: move 5s linear infinite;
+  z-index: 3;
+  
+}
+
+#boxButton {
+  position: relative;
+  top: 270px;
+  width: 100px;
+  margin: 20px;
+}
+
+.trailer {
+  min-height: 50vh;
+  width: 70%;
+  top: 20%;
+  left: 20%;
+  overflow: hidden;
+  position: absolute;
+  transform: translate(-10%, 10%); /* Centralizar vertical e horizontalmente */
+}
+
+footer {
+  position: fixed;
+  transform: translateX(-50%); /* Centralizar horizontalmente */
+  bottom: 0;
+  left: 50%;
+  color: black;
+  font-size: 30px;
+  text-align: center; /* Centralizar o texto dentro do footer */
+  width: 100%; /* Garantir que ocupe toda a largura da tela */
+}
+
+@keyframes bounce {
+  0%,
+  100% {
+    transform: translateY(-20px);
+  }
+  50% {
+    transform: translateY(-40px);
+  }
+}
+
+@keyframes move {
+  0% {
+    transform: translateX(100vw); /* Inicia fora da tela à direita */
+  }
+  100% {
+    transform: translateX(-50px); /* Move até o final da tela à esquerda */
+  }
+}
+
+@keyframes fly {
+  0% {
+    transform: translateY(0);
+  }
+  20% {
+    transform: translateY(30px);
+  }
+  100% {
+    transform: translateY(-600px);
+  }
+}
+
+@keyframes opacity {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+@keyframes highlight {
+  0%, 100% {
+      background-color: red;
+  }
+  50% {
+      background-color: green;
+  }
+  to {
+    transform: translateX(0);
+  }
+}
+
+content {
+  position: absolute;
+  top: 80%;
+  right:0%;
+  transform: translate(-50%, -50%);
+  color: white;
+  text-align: center;
+}
+
+.encarte {
+  width: 300px;
+  height: 400px;
+  background-color: #f00;
+  border-radius: 10px;
+  padding: 20px;
+  animation: bounce 2s infinite;
+}
+
+
+@keyframes bounce {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-20px);
+  }
+}
+
